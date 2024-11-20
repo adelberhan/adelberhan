@@ -20,6 +20,5 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Adelberhan&icon=2&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
