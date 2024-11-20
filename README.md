@@ -1,5 +1,11 @@
 # 💫 About Me:
-💻 My name is Adel Berhan.<br>🎓 I graduated from the Faculty of Information Technology at Misr University for Science and Technology.<br>🖥️ I studied in the Computer Science department.<br>🌐 I am interested in frontend development (Angular).<br>📊 I also have a strong interest in business analysis.<br>📧 You can contact me via Adel.berhan@gmail.com.<br>🔗 You can visit my portfolio to see other projects.<br><br>
+💻 My name is Adel Berhan.<br>
+🎓 I graduated from the Faculty of Information Technology at Misr University for Science and Technology.<br>
+🖥️ I studied in the Computer Science department.<br>
+🌐 I am interested in frontend development (Angular).<br>
+📊 I also have a strong interest in business analysis.<br>
+📫 You can contact me via Adel.berhan@gmail.com.<br>
+🌐 You can visit my portfolio to see other projects ![portifolio](https://adel-berhan-portfolio.netlify.app/).<br><br>
 
 
 ## 🌐 Socials:
