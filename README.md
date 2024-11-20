@@ -4,8 +4,8 @@
 🖥️ I studied in the Computer Science department.<br>
 🌐 I am interested in frontend development (Angular).<br>
 📊 I also have a strong interest in business analysis.<br>
-📫 You can contact me via Adel.berhan@gmail.com.<br>
-🌐 You can visit my portfolio to see other projects ![portifolio](https://adel-berhan-portfolio.netlify.app/).<br><br>
+📫 You can contact me via (Adel.berhan@gmail.com).<br>
+🌐 You can visit my portfolio to see other projects ![🌐](https://adel-berhan-portfolio.netlify.app/).<br><br>
 
 
 ## 🌐 Socials:
